@@ -1,11 +1,7 @@
-# Microsoft-365-Identity-and-Services
-Microsoft 365 - Administration and Security Services
-
-
-# Microsoft 365 Administration and Security Project
+# Microsoft 365 - Administration and Security Services
 
 # Project Overview:
-This project involved comprehensive management and security configuration of Microsoft 365 services, including Exchange, Power Platform, Multi-Factor Authentication (MFA), and security policies aimed at enhancing organizational communication and data protection.
+This project involved comprehensive management and security configuration of Microsoft 365 services, including Exchange, Power Platform, Multi-Factor Authentication (MFA), and security policies to enhance organizational communication and data protection.
 
 ## Tools and Technologies Used:
 #### •	Microsoft 365 Admin Center
